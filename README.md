@@ -6,8 +6,8 @@ Espion is quite an easy tool to use. If you get doubious on how to use it, on th
 `python espion.py -h` OR `python espion.py --help`.
 ### Part A: Cloning the repository
 Go as per this command flow:
-`git clone https://github.com/AnuragRSimha/Espion.git`
-`cd Espion`
+1. `git clone https://github.com/AnuragRSimha/Espion.git`
+2. `cd Espion`
 ### Part B: After cloning the repository
 Follow these steps to achieve a triumphant execution:
 1. Confirm the victim machine(s) and the attacker machine.
