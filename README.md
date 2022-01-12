@@ -21,7 +21,7 @@ Follow these steps to achieve a triumphant execution:
 8. Type anything on the target machine(s). Then monitor/observe the output received on the attacker machine
 (Optional: Connect another victim to the attacker machine.).
 ## Additional Information
-> Designed and developed by Anurag.R.Simha.
-> Made in Karnataka.
-> Designed with python.
-> Concept(s) used: Socket Programming in Python,
+1. Designed and developed by Anurag.R.Simha.
+2. Made in Karnataka.
+3. Designed with python.
+4. Concept(s) used: Socket Programming in Python,
