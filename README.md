@@ -3,7 +3,10 @@
 ## Warning
 The use of this tool is strictly for only benevolent or educational purposes. Any malevolent intention or misuse of Espion could certainly put your life at risk. Henceforth, use this tool cautiously.
 ## Introduction
+### About Espion
 Espion (Spy in French) is a bijou keylogger tool to capture any key that the user on a target machine presses on his/her keyboard. Espion supports 1:M connection. 1:M is a notation for one server and many clients.
+### About Keyloggers
+Keyloggers are spyware tools (hence the name, Espion) that capture 'keystrokes' on a target computer and reflect the captured data in real-time and/or keep it stored in a log file.
 ## Using Espion
 Espion is quite an easy tool to use. If you get doubious on how to use it, on the terminal type the following command:
 `python espion.py -h` OR `python espion.py --help`.
