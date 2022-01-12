@@ -29,7 +29,7 @@ Follow these steps to achieve a triumphant execution:
 1. Designed and developed by Anurag.R.Simha.
 2. Made in Karnataka.
 3. Designed with python.
-4. Concept(s) used: Socket Programming in Python,
+4. Concept(s) used: Socket Programming in Python.
 
 ## Notice
 Espion is not OS-specific.
