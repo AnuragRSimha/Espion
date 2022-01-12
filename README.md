@@ -1,4 +1,4 @@
-# About Espion
+# Espion: A Mini-Keylogger
 ![Espion: A Mini-Keylogger](https://i.ibb.co/VQr8J8S/Logo.jpg)
 ## Introduction
 Espion (Spy in French) is a bijou keylogger tool to capture any key that the user on a target machine presses on his/her keyboard. Espion supports 1:M connection. 1:M is a notation for one server and many clients.
@@ -20,3 +20,8 @@ Follow these steps to achieve a triumphant execution:
 7. Run the program titled 'victim.py' on the victim machine (`python victim.py`).
 8. Type anything on the target machine(s). Then monitor/observe the output received on the attacker machine
 (Optional: Connect another victim to the attacker machine.).
+## Additional Information
+> Designed and developed by Anurag.R.Simha.
+> Made in Karnataka.
+> Designed with python.
+> Concept(s) used: Socket Programming in Python,
