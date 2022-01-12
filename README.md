@@ -12,11 +12,11 @@ Go as per this command flow:
 Follow these steps to achieve a triumphant execution:
 1. Confirm the victim machine(s) and the attacker machine.
 2. On the attacker machine, run the generator program first.
-	      Syntax: `python generator.py`
+	Syntax: `python generator.py`
 3. Enter all the details asked for into the prompt.
 4. Remember the IP address and the port number that's designated.
 5. Once again, on the attacker machine, run the listener program.
-	      Syntax: `python espion.py <IP> <PORT>`
+	Syntax: `python espion.py <IP> <PORT>`
 6. Now, head to the victim machine.
 7. Run the program titled 'victim.py' over there (on the victim machine).
 	      Syntax: `python victim.py`
