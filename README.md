@@ -1,6 +1,6 @@
 # Espion: A Mini-Keylogger
 ![Espion: A Mini-Keylogger](https://i.ibb.co/VQr8J8S/Logo.jpg)
-## WARNING
+## Warning
 The use of this tool is strictly for only benevolent or educational purposes. Any malevolent intention or misuse of Espion could certainly put your life at risk. Henceforth, use this tool cautiously.
 ## Introduction
 Espion (Spy in French) is a bijou keylogger tool to capture any key that the user on a target machine presses on his/her keyboard. Espion supports 1:M connection. 1:M is a notation for one server and many clients.
