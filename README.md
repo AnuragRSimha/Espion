@@ -37,4 +37,4 @@ Espion is not OS-specific.
 All the details are stored in a keystroke log file on the same directory
 where espion.py program was running. Remember to terminate the execution
 of that program before browsing the log file. It's titled as 
-'Keystroke log file (<<current date>>).txt'.
+'Keystroke log file (current date).txt'.
