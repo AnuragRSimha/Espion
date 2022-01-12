@@ -16,6 +16,6 @@ Follow these steps to achieve a triumphant execution:
 4. Remember the IP address and the port number that's designated.
 5. Once again, on the attacker machine, run the listener program (`python espion.py <IP> <PORT>`).
 6. Now, head to the victim machine.
-7. Run the program titled 'victim.py' over there (on the victim machine) (`python victim.py`).
-8. Type anything on the target machine(s). Then monitor/observe the output received on the attacker machine.
-(Optional: Connect another victim to the attacker machine.)
+7. Run the program titled 'victim.py' on the victim machine (`python victim.py`).
+8. Type anything on the target machine(s). Then monitor/observe the output received on the attacker machine
+(Optional: Connect another victim to the attacker machine.).
