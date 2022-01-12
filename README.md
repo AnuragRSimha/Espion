@@ -11,7 +11,7 @@ Go as per this command flow:
 ### Part B: After cloning the repository
 Follow these steps to achieve a triumphant execution:
 1. Confirm the victim machine(s) and the attacker machine.
-2. On the attacker machine, run the generator program first.
+2. On the attacker machine, run the generator program first.\n
 	Syntax: `python generator.py`
 3. Enter all the details asked for into the prompt.
 4. Remember the IP address and the port number that's designated.
