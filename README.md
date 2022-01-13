@@ -62,8 +62,8 @@ of that program before browsing the log file. It's titled as
 'Keystroke log file (current date).txt'.
 
 ## Consequences of Illegal/Unauthorised Use
-### The Indian Law
 Only a few points are listed here:
+### The Indian Law
 As per the Indian law, the accused can also be jailed under the following (suitable) sections:
 #### IT ACT
 1. Sec. 73: Publishing False Digital Signature Certificates.
