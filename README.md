@@ -15,7 +15,7 @@ Go as per this command flow:
 1. `git clone https://github.com/AnuragRSimha/Espion.git`
 2. `cd Espion`
 
-![Cloning the repository]https://i.ibb.co/fCHQ1g4/Espion-Installation.gif
+![Cloning the repository](https://i.ibb.co/fCHQ1g4/Espion-Installation.gif)
 
 ### Part B: After cloning the repository
 Follow these steps to achieve a triumphant execution:
