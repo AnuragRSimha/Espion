@@ -1,5 +1,5 @@
 # Espion: A Mini-Keylogger
-<CENTER>![Espion: A Mini-Keylogger](https://i.ibb.co/VQr8J8S/Logo.jpg)</CENTER>
+![Espion: A Mini-Keylogger](https://i.ibb.co/VQr8J8S/Logo.jpg)
 ## Warning
 The use of this tool is strictly for only benevolent or educational purposes. Any malevolent intention or misuse of Espion could certainly put your life at risk. Henceforth, use this tool cautiously.
 ## Introduction
@@ -14,6 +14,9 @@ Espion is quite an easy tool to use. If you get doubious on how to use it, on th
 Go as per this command flow:
 1. `git clone https://github.com/AnuragRSimha/Espion.git`
 2. `cd Espion`
+
+![Cloning the repository]https://i.ibb.co/fCHQ1g4/Espion-Installation.gif
+
 ### Part B: After cloning the repository
 Follow these steps to achieve a triumphant execution:
 1. Confirm the victim machine(s) and the attacker machine.
