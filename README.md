@@ -38,6 +38,8 @@ Follow these steps to achieve a triumphant execution:
 
 https://user-images.githubusercontent.com/53004679/149343841-6fa6c541-5495-46eb-b956-860408ae19fc.mp4
 
+### Contents of the keylogger file 
+![Contents of the keylogger file](https://user-images.githubusercontent.com/53004679/149353047-90955afa-bc4e-49a0-84e7-eb321f12dd80.PNG)
 
 
 ## Additional Information
