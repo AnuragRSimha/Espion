@@ -43,6 +43,10 @@ https://user-images.githubusercontent.com/53004679/149384965-7a17cf9d-c533-4c15-
 
 Since the shift key was pressed for a long duration, the duplicate entries are perspicuous.
 
+## Uses
+1. Monitor user activity on a local network.
+2. Record usernames and passwords (for legal purposes only).
+
 ## Additional Information
 1. Designed and developed by Anurag.R.Simha.
 2. Made in Karnataka.
@@ -56,3 +60,30 @@ All the details are stored in a keystroke log file on the same directory
 where espion.py program was running. Remember to terminate the execution
 of that program before browsing the log file. It's titled as 
 'Keystroke log file (current date).txt'.
+
+## Consequences of Illegal/Unauthorised Use
+### The Indian Law
+Only a few points are listed here:
+As per the Indian law, the accused can also be jailed under the following (suitable) sections:
+#### IT ACT
+1. Sec. 73: Publishing False Digital Signature Certificates.
+2. Sec. 65: Tampering with Computer Source Documents.
+3. Sec. 72: Breach of Confidentiality and Privacy.
+
+#### IPC (Indian Penal Code)
+1. Sec. 463: Forgery of Electronic Records.
+2. Sec. 420: Bogus Websites & Cyber Fraud.
+
+### The British Law
+The cyber security laws that are normally applied in case of cyber attacks are as follows (As per the British law):
+1. The Privacy and Electronic Communications Regulations 2003 (PECR)
+2. Computer Misuse Act 1990 (CMA)
+4. Investigatory powers Act 2016 (IPA)
+5. Fraud Act 2006
+6. Theft Act 1968
+7. Theft Act 1978
+8. Forgery and Counterfeiting Act 1981
+9. Proceeds of crime act 2002 (POCA)
+10. Data protection act 2018 (DPA)
+11. Official Secrets Act 1989
+
