@@ -35,12 +35,11 @@ Follow these steps to achieve a triumphant execution:
 ![Designating the machines](https://i.ibb.co/DpY9VGJ/Attacker-Victim.jpg)
 
 
+https://user-images.githubusercontent.com/53004679/149384965-7a17cf9d-c533-4c15-80d6-69541743fed5.mp4
 
-https://user-images.githubusercontent.com/53004679/149343841-6fa6c541-5495-46eb-b956-860408ae19fc.mp4
 
-### Contents of the keylogger file 
-![Contents of the keylogger file](https://user-images.githubusercontent.com/53004679/149353047-90955afa-bc4e-49a0-84e7-eb321f12dd80.PNG)
-
+### Contents of the keylogger file
+![Contents of the keylogger file](https://user-images.githubusercontent.com/53004679/149384403-47b8eeab-289c-48a7-a194-b44775c7c947.PNG)
 
 ## Additional Information
 1. Designed and developed by Anurag.R.Simha.
