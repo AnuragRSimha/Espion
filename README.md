@@ -18,8 +18,7 @@ Go as per this command flow:
 ![Cloning the repository](https://i.ibb.co/fCHQ1g4/Espion-Installation.gif)
 
 ### Part B: After cloning the repository
-Before proceeding, be certain to be a super user (root) to use Espion.
-Also install the keyboard module in python [`pip install keyboard`]
+Before proceeding, be certain to be a super user (root) to use Espion. Also install the keyboard module in python [`pip install keyboard`].
 Follow these steps to achieve a triumphant execution:
 1. Confirm the victim machine(s) and the attacker machine.
 2. On the attacker machine, run the generator program first (`python generator.py`).
