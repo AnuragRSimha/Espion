@@ -15,7 +15,6 @@ Go as per this command flow:
 1. `git clone https://github.com/AnuragRSimha/Espion.git`
 2. `cd Espion`
 
-![Cloning the repository](https://i.ibb.co/fCHQ1g4/Espion-Installation.gif)
 
 ### Part B: After cloning the repository
 Before proceeding, be certain to be a super user (root) to use Espion. Also install the keyboard module in python [`pip install keyboard`].
@@ -31,7 +30,10 @@ Follow these steps to achieve a triumphant execution:
 (Optional: Connect another victim to the attacker machine.).
 
 ![Designating the machines](https://i.ibb.co/DpY9VGJ/Attacker-Victim.jpg)
-![Running Espion](https://i.ibb.co/4s3vTQ5/espion-execution-Z7n-UFf-Gs.gif)
+
+
+https://user-images.githubusercontent.com/53004679/149342930-944efb2b-b9d8-416e-9332-92676c03c612.mp4
+
 ## Additional Information
 1. Designed and developed by Anurag.R.Simha.
 2. Made in Karnataka.
