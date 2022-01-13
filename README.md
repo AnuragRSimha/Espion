@@ -75,7 +75,7 @@ As per the Indian law, the accused can also be jailed under the following (suita
 2. Sec. 420: Bogus Websites & Cyber Fraud.
 
 ### The British Law
-The cyber security laws that are normally applied in case of cyber attacks are as follows (As per the British law):
+The cyber security laws that are normally applied in case of cyber attacks are as follows (as per the British law):
 1. The Privacy and Electronic Communications Regulations 2003 (PECR)
 2. Computer Misuse Act 1990 (CMA)
 4. Investigatory powers Act 2016 (IPA)
