@@ -14,6 +14,9 @@ Espion is quite an easy tool to use. If you get doubious on how to use it, on th
 Go as per this command flow:
 1. `git clone https://github.com/AnuragRSimha/Espion.git`
 2. `cd Espion`
+
+![Cloning the repository](https://vimeo.com/665594787/espion_-_installation.wmv)
+
 ### Part B: After cloning the repository
 Follow these steps to achieve a triumphant execution:
 1. Confirm the victim machine(s) and the attacker machine.
