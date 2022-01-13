@@ -41,6 +41,8 @@ https://user-images.githubusercontent.com/53004679/149384965-7a17cf9d-c533-4c15-
 ### Contents of the keylogger file
 ![Contents of the keylogger file](https://user-images.githubusercontent.com/53004679/149384403-47b8eeab-289c-48a7-a194-b44775c7c947.PNG)
 
+Since the shift key was pressed for a long duration, the duplicate entries are perspicuous.
+
 ## Additional Information
 1. Designed and developed by Anurag.R.Simha.
 2. Made in Karnataka.
