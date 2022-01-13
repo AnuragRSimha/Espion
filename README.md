@@ -29,6 +29,8 @@ Follow these steps to achieve a triumphant execution:
 7. Run the program titled 'victim.py' on the victim machine (`python victim.py`).
 8. Type anything on the target machine(s). Then monitor/observe the output received on the attacker machine
 (Optional: Connect another victim to the attacker machine.).
+
+![Designating the machines](https://i.ibb.co/DpY9VGJ/Attacker-Victim.jpg)
 ## Additional Information
 1. Designed and developed by Anurag.R.Simha.
 2. Made in Karnataka.
