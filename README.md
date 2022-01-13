@@ -29,7 +29,7 @@ Follow these steps to achieve a triumphant execution:
 (Optional: Connect another victim to the attacker machine.).
 
 ![Designating the machines](https://i.ibb.co/DpY9VGJ/Attacker-Victim.jpg)
-https://user-images.githubusercontent.com/53004679/149343289-20dc9d4e-2219-4254-a77e-70ef5899d3b9.mp4
+![](https://user-images.githubusercontent.com/53004679/149343289-20dc9d4e-2219-4254-a77e-70ef5899d3b9.mp4)
 
 ## Additional Information
 1. Designed and developed by Anurag.R.Simha.
