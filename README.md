@@ -62,7 +62,7 @@ of that program before browsing the log file. It's titled as
 'Keystroke log file (current date).txt'.
 
 ## Consequences of Illegal/Unauthorised Use
-Only a few points are listed here:
+Only a few points are listed here.
 ### The Indian Law
 As per the Indian law, the accused can also be jailed under the following (suitable) sections:
 #### IT ACT
