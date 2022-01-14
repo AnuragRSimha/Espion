@@ -49,7 +49,7 @@ Since the shift key was pressed for a long duration, the duplicate entries are p
 
 ## Additional Information
 1. Designed and developed by Anurag.R.Simha.
-2. Made in Karnataka.
+2. Made in Karnataka, South India.
 3. Designed with python.
 4. Concept(s) used: Socket Programming in Python.
 
